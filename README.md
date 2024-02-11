@@ -1,6 +1,6 @@
 # **Enlo ther! I'm _spuun_** 🥄
 
-or kek 🧝‍♀️, or <span style="filter: blur(0.25em)">faiz</span> 🙊, depending on who you are.
+or kek 🧝‍♀️ depending on who you are.
 
 ## 🌈 **Qwik facts**
 
