@@ -52,7 +52,7 @@ Here are some highlights:
 - **Artificial Intelligence**  
   Some other things related to AI:
   - [**_Replicate Cogs_**](https://github.com/spuuntries/rp-cogs): Cogs I maintain for [Replicate](https://replicate.com/spuuntries), feel free to use them! ~~Cuz I need them running all the time to keep the API running smoothly, it's a win-win really, so pls use.~~ _cough_
-  - [**_Reminate_** (unmaintained)](https://github.com/spuuntries/replicate): A node.js module that checks if an image is AI-generated or not.
+  - [**_Reminate_** (unmaintained)](https://github.com/spuuntries/reminate): A node.js module that checks if an image is AI-generated or not.
 - **Miscellaneous**  
   Some other projects I thought are worth the highlight:
   - [**_sebroken_**](https://github.com/spuuntries/sebroken): A [Safe Exam Browser (SEB)](https://safeexambrowser.org/) automated config modifier that does all the reverse engineering + decryption necessary on the file and _i-definitely-did-not-use-for-any-nefarious-purposes-back-in-high-school_.
