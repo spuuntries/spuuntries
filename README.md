@@ -57,6 +57,6 @@ Here are some highlights:
   Some other projects I thought are worth the highlight:
   - [**_sebroken_**](https://github.com/spuuntries/sebroken): A [Safe Exam Browser (SEB)](https://safeexambrowser.org/) automated config modifier that does all the reverse engineering + decryption necessary on the file and _i-definitely-did-not-use-for-any-nefarious-purposes-back-in-high-school_.
   - [**_RGPloit_**](https://github.com/spuuntries/rgploit/): A chrome extension that does HTML injection to remove login requirements on educational material sites like Zenius and Ruangguru.
-  - [**_NFCel_**](https://github.com/spuuntries/nfcel): A proof-of-stake blockchain implementation in node.js on a single worker that I hosted for a small event as a Non-Fungible Token joke.
+  - [**_NFCel_**](https://github.com/spuuntries/nfcel): A proof-of-work blockchain implementation in node.js on a single worker that I hosted for a small event as a Non-Fungible Token joke.
   - [**_CeleryJuice.chef_**](https://media.discordapp.net/attachments/801809177185615893/925782659890835496/kekleterclr.png): A birthday gift for a friend of mine, Ibib. It's a chef esolang script that basically just says happy birthday.
   - [**_IDDFS_**](https://github.com/spuuntries/uni-matdis/tree/master/tugas-fp/iddfs): An Iterative Deepening Depth First Search (IDDFS) pathfinding implementation in python for my 1st Semester's Discrete Mathematics final project at ITS. Not the best one mind you, but I was quite proud of it, especially considering the relatively short timeframe provided.
