@@ -62,4 +62,5 @@ Here are some highlights:
   - [**_IDDFS_**](https://github.com/spuuntries/uni-matdis/tree/master/tugas-fp/iddfs): An Iterative Deepening Depth First Search (IDDFS) pathfinding implementation in python for my 1st Semester's Discrete Mathematics final project at ITS. Not the best one mind you, but I was quite proud of it, especially considering the relatively short timeframe provided.
 
 ```math 
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-repeat: no-repeat !important; background-position: left; width: 100vw; opacity: 0.2; background: url('https://github.com/spuuntries/spuuntries/assets/69007078/6cc65ec8-a9db-46d1-b31b-deb58c0da3a8');]{x0000}$} % Credit to cloud11665
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -1; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-repeat: no-repeat !important; background-position: left; width: 100vw; opacity: 0.2; background: url('https://github.com/spuuntries/spuuntries/assets/69007078/6cc65ec8-a9db-46d1-b31b-deb58c0da3a8');]{x0000}$} % Credit to cloud11665, vmfunc, & xyzeva
+```
