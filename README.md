@@ -19,7 +19,7 @@ or kek 🧝‍♀️ depending on who you are.
 
 ## 📝 **Wat u do?**
 
-Well, I like to put it as... _"barely-sane-tech-man"_? <img src="./assets/ehehe.png" style="width: 2em;" alt=":ehehe:">  
+Well, I like to put it as... _"barely-sane-not-tistic-mf"_? <img src="./assets/ehehe.png" style="width: 2em;" alt=":ehehe:">  
 But if you're one of those who really need an actual word here for whatever reason, I do:
 
 - Digital and Traditional 2D Art;
