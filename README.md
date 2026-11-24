@@ -11,6 +11,7 @@ or kek 🧝‍♀️ depending on who you are.
 | **Languages** | Indonesian (C2 CEFR), English (>=C1 CEFR) |
 | **Discord** | kek.c |
 | **Aliases** | Kek 🧝‍♀️ / spuun 🥄    |
+| **Pronouns** | they/she/he    |
 | **MBTI** | INFP-T |
 | **Current Education** | AI Engineering Major @ Sepuluh Nopember Institute of Technology (ITS) |
 | **Interests** | AI (LLMs), Cybersecurity, Back-end Development, Software Engineering, 2D Art |
